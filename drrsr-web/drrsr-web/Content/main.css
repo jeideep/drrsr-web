@@ -1,0 +1,16 @@
+﻿@import url('http://getbootstrap.com/dist/css/bootstrap.css');
+html, body, .container{
+    height: 100%;
+}
+.container{
+    display: table;
+    vertical-align: middle;
+}
+.vertical-center-row{
+    display: table-cell;
+    vertical-align: middle;
+}
+html body {
+    background-color: rgba(0,0,0,1.00);
+
+}
